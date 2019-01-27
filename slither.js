@@ -1,24 +1,4 @@
-Skip to content
-Why GitHub? 
-Enterprise
-Explore 
-Marketplace
-Pricing 
 
-Search
-
-Sign in
-Sign up
-0 0 0 meetr1912/slitherbot
- Code  Issues 0  Pull requests 0  Projects 0  Insights
-Join GitHub today
-GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
-
-slitherbot/Slither.io Bot By iiiTheKilleriii.user.js
-9b18842  a day ago
-@meetr1912 meetr1912 Add files via upload
-     
-2160 lines (1897 sloc)  79.1 KB
 /*
 Bot Made in iiiTheKilleriii./
 */
